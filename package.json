@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-vk-bot": "^1.2.3",
+    "vk-io": "^4.5.2"
+  }
+}
